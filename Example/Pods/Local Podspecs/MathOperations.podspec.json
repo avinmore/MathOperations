@@ -1,0 +1,22 @@
+{
+  "name": "MathOperations",
+  "version": "0.1.0",
+  "summary": "A short description of MathOperations.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/avin/MathOperations",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "avin": "avin@craftdigitalsg.com"
+  },
+  "source": {
+    "git": "https://github.com/avin/MathOperations.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MathOperations/Classes/**/*"
+}

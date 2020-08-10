@@ -1,0 +1,16 @@
+PODS:
+  - MathOperations (0.1.0)
+
+DEPENDENCIES:
+  - MathOperations (from `../`)
+
+EXTERNAL SOURCES:
+  MathOperations:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MathOperations: 2b2a853ae44475b98024dd0d94287413d053c3b0
+
+PODFILE CHECKSUM: 15182fc2c53fade372fa21777b42cd8eead955e7
+
+COCOAPODS: 1.8.4

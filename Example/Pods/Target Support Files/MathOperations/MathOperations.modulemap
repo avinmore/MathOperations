@@ -1,0 +1,6 @@
+framework module MathOperations {
+  umbrella header "MathOperations-umbrella.h"
+
+  export *
+  module * { export * }
+}
